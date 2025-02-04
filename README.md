@@ -67,13 +67,57 @@ The game ends if:
 
 ## Development Notes
 
-- The game uses OpenAI's API to generate dynamic scenarios
+- The game uses OpenAI's GPT-4 API to generate dynamic scenarios
 - Events are inspired by current affairs and bureaucratic operations
 - AI decision-making in Auto mode uses strategic analysis through the API
 
 ## Disclaimer
 
 This is a work of fiction for entertainment purposes only. Any resemblance to real events or organizations is used purely as creative inspiration for the game mechanics.
+
+## License
+
+MIT License - See LICENSE file for details
+
+# Shadow Government Simulator
+
+[Previous README content remains the same until the License section, then add:]
+
+## Contributing
+
+We welcome contributions to the Shadow Government Simulator! Whether you're fixing bugs, adding new features, improving documentation, or expanding the event database, your help is appreciated.
+
+See our [Contributing Guidelines](CONTRIBUTING.md) for details on:
+- How to submit changes
+- How to report bugs
+- How to request features
+- Our code of conduct
+
+### Quick Start for Contributors
+
+1. Fork the repository
+2. Create a new branch for your feature
+```bash
+git checkout -b feature/your-feature-name
+```
+3. Make your changes
+4. Push to your fork
+5. Submit a Pull Request
+
+### Areas for Contribution
+
+- Adding new static events
+- Improving the AI decision-making
+- Enhancing the user interface
+- Adding new game mechanics
+- Improving documentation
+- Bug fixes and optimization
+
+### Getting Help
+
+- Check the [issues page](https://github.com/davelalande/shadow-government/issues) for current tasks
+- Join the discussion in existing issues
+- Create a new issue for bugs or feature requests
 
 ## License
 
